@@ -10,3 +10,15 @@ C:\Users\Josue\Desktop\Calculadora Quimica Basica\Calculadora Quimica Basica\obj
 C:\Users\Josue\Desktop\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora Quimica Basica.pdb
 C:\Users\Josue\Desktop\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora_Quimica_Basica.CalculadoraQuimicaBasica.resources
 C:\Users\Josue\Desktop\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora_Quimica_Basica.MoralidadDisolucion.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\bin\Debug\Calculadora Quimica Basica.exe.config
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\bin\Debug\Calculadora Quimica Basica.exe
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\bin\Debug\Calculadora Quimica Basica.pdb
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora Quimica Basica.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora Quimica Basica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora_Quimica_Basica.CalculadoraQuimicaBasica.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora_Quimica_Basica.MoralidadDisolucion.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora_Quimica_Basica.Properties.Resources.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora Quimica Basica.csproj.GenerateResource.cache
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora Quimica Basica.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora Quimica Basica.exe
+C:\Users\Josue\Desktop\Programación\C#\Tareas\Propios\Calculadora Quimica Basica\Calculadora Quimica Basica\obj\Debug\Calculadora Quimica Basica.pdb

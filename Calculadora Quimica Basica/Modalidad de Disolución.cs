@@ -52,7 +52,6 @@ namespace Calculadora_Quimica_Basica
                 label2.Text = "g:";
             }
         }
-
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             if (radioButton2.Checked == true)
@@ -61,13 +60,36 @@ namespace Calculadora_Quimica_Basica
                 label2.Text = "M:";
             }
         }
-
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
             if (radioButton3.Checked == true)
             {
                 label1.Text = "L:";
                 label2.Text = "M:";
+            }
+        }
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            if(radioButton4.Checked == true)
+            {
+                label1.Text = "g:";
+                label2.Text = "g:";
+            }
+        }
+        private void radioButton5_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton5.Checked == true)
+            {
+                label1.Text = "g:";
+                label2.Text = "ml:";
+            }
+        }
+        private void radioButton6_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton6.Checked == true)
+            {
+                label1.Text = "ml:";
+                label2.Text = "ml:";
             }
         }
 
@@ -91,7 +113,23 @@ namespace Calculadora_Quimica_Basica
             }
             else if(radioButton3.Checked == true) //Moles.
             {
+                //Formula: NaHPO4.
                 Z = x * y;
+            }
+            else if(radioButton4.Checked == true) //% P/P
+            { 
+                //Formula: KOH.
+                Z = (x / 27f) * 100f; //El soluto y el solvente siempre se suman, por eso dá 27.
+            }
+            else if(radioButton5.Checked == true)
+            {
+                //Formula: AgNO3.
+                Z = (x / 70f) * 100f;
+            }
+            else if(radioButton6.Checked == true)
+            {
+                //Formula: ???.
+                Z = (x / 55f) * 100f;
             }
 
             return Z;
@@ -109,9 +147,21 @@ namespace Calculadora_Quimica_Basica
             {
                 r = "g";
             }
-            else if( radioButton3.Checked == true)
+            else if(radioButton3.Checked == true)
             {
                 r = "mol";
+            }
+            else if(radioButton4.Checked == true)
+            {
+                r = "%P/P";
+            }
+            else if( radioButton5.Checked == true)
+            {
+                r = "%P/V";
+            }
+            else if (radioButton6.Checked == true)
+            {
+                r = "%V/V";
             }
 
             return r;
